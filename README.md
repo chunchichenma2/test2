@@ -10,3 +10,4 @@ really want
 another edit
 additonal edit
 continue
+Does this fix #4?
